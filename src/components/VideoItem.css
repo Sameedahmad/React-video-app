@@ -1,0 +1,46 @@
+.ui.segment.search-bar{
+background-color: aliceblue;
+    width: 500px;
+    align-content: center;
+    margin-left: 44px;
+    margin-top: 5px;
+}
+div.loading{
+    width: 50%;
+    margin-left: 270px;
+    margin-top: 70px;
+}
+h4.ui.header{
+    font-size: 12px;
+}
+
+p{
+    font-size: 10px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.video-item{
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+}
+
+.image-element{
+    max-width: 180px;
+}
+
+.header{
+    font-size: 10px;
+}
+
+.video-item.item{
+    height: 110px;
+}
+
+p.header{
+    font-size: 10px;  
+    
+    }
